@@ -2,6 +2,8 @@
 
 Pizza Sales Domain
 Responsibilities:
+
+
 •	Developed and maintained comprehensive Power BI dashboards to track pizza sales performance, including metrics like revenue, quality, order frequency, customer demographics, and product preferences.
 •	Integrated data from various sources such as POS systems, online ordering platforms, and CRM databases to create a unified data model.
 •	Collaborated with cross-functional teams to identify KPIs and ensure reporting accuracy aligned with business objectives.
