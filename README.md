@@ -1,18 +1,22 @@
-Project 2 – IT Domain
-
+Project 1 – Pizza Sales Domain
+         
 Responsibilities:
 
-•	Designed and deployed interactive Power BI dashboards, reports, and visualizations to track key performance indicators (KPIs) and business metrics.
+•	Developed and maintained comprehensive Power BI dashboards to track pizza sales performance, including metrics like revenue, quality, order frequency, customer demographics, and product preferences.
 
-•	Integrated data from multiple sources such as SQL Server, Excel, and APIs into Power BI using Power Query and DAX for data modelling and transformation.
+•	Integrated data from various sources such as POS systems, online ordering platforms, and CRM databases to create a unified data model.
 
-•	Collaborated with cross-functional teams, including business analysts, project managers, and stakeholders, to gather requirements and deliver custom reporting solutions.
+•	Collaborated with cross-functional teams to identify KPIs and ensure reporting accuracy aligned with business objectives.
 
-•	Optimized Power BI reports for performance by minimizing DAX calculations and refining data models.
 
-•	Developed scheduled data refreshes and implemented row-level security to control data access based on user roles.
+•	Utilized DAX and Power Query for complex data transformations and custom calculations to enhance reporting capabilities.
 
-•	Documentation to enable business users to self-serve their reporting needs.
+•	Designed interactive visualizations for stakeholders to monitor trends, seasonal sales variations, and marketing campaign effectiveness.
 
-•	Automated data workflows and report distribution using Power Automate to reduce manual intervention. Conducted user training sessions and created
+•	Implemented row-level security (RLS) to control access to sensitive data, ensuring compliance with data privacy regulations.
+
+•	Automated data refresh processes and optimized Power BI reports for performance, reducing load times by 25%.
+
+•	Provided training to business users for self-service reporting, improving decision-making efficiency
+
 
