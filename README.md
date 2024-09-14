@@ -1,4 +1,4 @@
-# IT-PROJECT
+# PIZZA SALES DOMAIN
 
 Pizza Sales Domain
 Responsibilities:
